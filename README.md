@@ -2,8 +2,9 @@
 
 **How do I approach designing software?**
 I
-<br>
+
+<hr>
 **How do I approach developing programs?**
 I
-<br>
+<hr>
 **How can computer science help me in reaching my goals?**
